@@ -1,0 +1,52 @@
+{
+  "accountList": [
+    {
+      "fName": "Ben",
+      "lName": "Sykes",
+      "cBal": 200,
+      "sBal": 512.50,
+      "checkingTransactions": [
+          {"id": 1, "amt": 200}
+      ],
+      "savingsTransactions": [
+          {"id": 1, "amt": 200}
+      ]
+    },
+    {
+      "fName": "Ben",
+      "lName": "Sykes",
+      "cBal": 200,
+      "sBal": 512.50,
+      "checkingTransactions": [
+        {"id": 1, "amt": 200}
+      ],
+      "savingsTransactions": [
+        {"id": 1, "amt": 200}
+      ]
+    },
+    {
+      "fName": "Ben",
+      "lName": "Sykes",
+      "cBal": 200,
+      "sBal": 512.50,
+      "checkingTransactions": [
+        {"id": 1, "amt": 200}
+      ],
+      "savingsTransactions": [
+        {"id": 1, "amt": 200}
+      ]
+    },
+    {
+      "fName": "Ben",
+      "lName": "Sykes",
+      "cBal": 200,
+      "sBal": 512.50,
+      "checkingTransactions": [
+        {"id": 1, "amt": 200}
+      ],
+      "savingsTransactions": [
+        {"id": 1, "amt": 200}
+      ]
+    }
+  ]
+}

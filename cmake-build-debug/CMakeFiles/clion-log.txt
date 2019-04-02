@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/bensykes/Nextcloud/Sem4Courses/Algorithms and Datastructures/Assignments/Assignment4/BennysBank"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/bensykes/Nextcloud/Sem4Courses/Algorithms and Datastructures/Assignments/Assignment4/BennysBank/cmake-build-debug
