@@ -1,0 +1,4 @@
+{"accountList":[
+  {"cBal":20420.0,"checkingTransactions":[
+    {"amt":200.0,"id":1}],
+    "fName":"Ben","lName":"Sykes","sBal":25000.62,"savingsTransactions":[{"amt":2000.0,"id":5}]},{"cBal":204120.0,"checkingTransactions":[{"amt":200.0,"id":1}],"fName":"Liam","lName":"Stickney","sBal":30000.75,"savingsTransactions":[{"amt":2000.0,"id":5}]},{"cBal":2042140.0,"checkingTransactions":[{"amt":200.0,"id":1},{"amt":152.25,"id":6},{"amt":52.56,"id":7}],"fName":"Malik","lName":"Talhat","sBal":75000.0,"savingsTransactions":[{"amt":2000.0,"id":5}]},{"cBal":999999.0,"checkingTransactions":[{"amt":200.0,"id":1}],"fName":"Alex","lName":"Babanski","sBal":999999.0,"savingsTransactions":[{"amt":2000.0,"id":5},{"amt":-2000.0,"id":3}]},{"cBal":21.0,"fName":"Hello","lName":"woiadj","sBal":14.0}]}
